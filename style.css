@@ -1,0 +1,64 @@
+.cotainer{
+  padding-left: 1rem;
+  padding-right: 1rem;
+} 
+ .fluidc{
+   margin-left: 50px; 
+  max-width: 600px;
+ }
+ .centrc{
+  margin-left: 50px; 
+ max-width: 600px;
+}
+.Primery{
+  padding:0.5rem 1rem;
+  background-color:#AF99FF ;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  border: 1px solid;
+
+}
+.secondary{
+  padding:0.5rem 1rem;
+  background-color:whitesmoke ;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  border: 1px solid;
+  
+}
+hr{
+  margin: 5rem 0rem ;
+}
+.unorderlist{
+  list-style: none;
+}
+.unorderlists{
+  display: inline;
+  padding: 0rem 0.4rem;
+}
+.navigation{
+  background-color: #AF99FF;
+  color: white;
+}
+.b{
+  display: inline;
+  padding: 0.1rem 0.9rem;
+  
+}
+.b .c{
+  text-decoration: none;
+  color: white;
+  
+}
+.z{
+  font-size: large;
+  font-weight: bold;
+}
+.navigation .A{
+  text-align: right;
+}
+
+
+
+ 
+ 
