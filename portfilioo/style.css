@@ -79,7 +79,8 @@
   .hero {
     text-align: center;
     padding-top: 1rem;
-    color:#6b728b
+    color:#6b728b;
+    font-size: 3rem;
   
   }
   .bold{
